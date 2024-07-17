@@ -1,0 +1,77 @@
+body {
+	background-color: white;
+	text-align:center;
+	background-image: url('Background.jpg');
+}
+
+hr {
+	width:50%;
+}
+
+h1 {
+	color:red;
+}
+
+h3 {
+	color:blue;
+}
+
+p.Left_Align {
+	text-align: left;
+}
+
+
+a {
+	color:blue;
+}
+
+ul.Left_Align_List {
+	text-align: left;
+}
+
+img {
+	width: 300px;
+}
+
+table {
+	width: 100%;
+}
+
+table, td, th {
+	border: 1px solid black;
+}
+
+td {
+	text-align: left;
+}
+
+td.Menu {
+	text-align: center;
+	vertical-align: top;
+}
+
+td.Copyright {
+	text-align: center;
+}
+
+p.h1 {
+	display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: red;
+}
+
+p.h2 {
+	display: block;
+  font-size: 1.2em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color:blue;
+}
